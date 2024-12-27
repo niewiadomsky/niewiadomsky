@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [own website for booking horse ridings](niewiadomscyranch.pl)
 
-- 🌱 I’m currently learning **solidity and blockchains**
+- 🌱 I’m currently learning **machine learning and compuer vision**
 
 - 💬 Ask me about **laravel, vue**
 
