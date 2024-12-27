@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **laravel, vue**
 
-- 📫 How to reach me **szymon@niewiadomsky.pl**
+- 📫 How to reach me **niewiadomski.szymon@gmail.com**
 
 - ⚡ Fun fact **I have own stable**
 
