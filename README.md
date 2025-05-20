@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **niewiadomski.szymon@gmail.com**
 
-- ⚡ Fun fact **I have own stable**
+- ⚡ Fun fact **I have own stable which I am trying to automate**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
