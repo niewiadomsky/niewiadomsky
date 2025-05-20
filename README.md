@@ -2,6 +2,7 @@
 <h3 align="center">A passionate fullstack developer from Poland</h3>
 
 - 🔭 I’m currently working on [own website for booking horse ridings](https://niewiadomscyranch.pl)
+<a href="https://niewiadomscyranch.pl" target="_blank">external link</a>
 
 - 🌱 I’m currently learning **machine learning and computer vision**
 
