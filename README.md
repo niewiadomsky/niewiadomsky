@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Szymon Niewiadomski</h1>
 <h3 align="center">A passionate fullstack developer from Poland</h3>
 
-- 🔭 I’m currently working on [own website for booking horse ridings](niewiadomscyranch.pl)
+- 🔭 I’m currently working on [own website for booking horse ridings](https://niewiadomscyranch.pl)
 
 - 🌱 I’m currently learning **machine learning and computer vision**
 
